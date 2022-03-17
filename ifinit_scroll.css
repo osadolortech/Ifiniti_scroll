@@ -4,10 +4,20 @@
     
 }
 body{
-    background-color: gray;
+    background-image: url("https://swall.teahub.io/photos/small/18-186683_soccer-lionel-messi-wallpaper-lionel-messi-wallpaper-hd.jpg");
     background-attachment: fixed;
+    background-repeat: repeat;
 }
 
+.header_container{
+    background-color:rgb(3, 3, 58);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 90px;
+    margin-bottom: 50px;
+    position: fixed;
+}
 .scroll{
     display: list-item;
     align-items: center;
